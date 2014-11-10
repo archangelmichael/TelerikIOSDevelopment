@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Igumen Ignatev</key>
+	<string>Maths</string>
+	<key>Ilian Tonev</key>
+	<string>Computer Science</string>
+	<key>Vasil Bojkov</key>
+	<string>Physics</string>
+	<key>Justin Timberlake</key>
+	<string>Computer Science</string>
+	<key>Katerin Batenberg</key>
+	<string>Biology</string>
+	<key>Siuzan Goldwin</key>
+	<string>Physics</string>
+	<key>Blake Wingly</key>
+	<string>Maths</string>
+	<key>Shin Pen</key>
+	<string>Computer Science</string>
+	<key>Swen Pon</key>
+	<string>Physics</string>
+	<key>Steven Jonson</key>
+	<string>Maths</string>
+</dict>
+</plist>

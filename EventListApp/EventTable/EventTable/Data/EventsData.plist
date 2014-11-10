@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Title</key>
+	<array>
+		<string>go to work</string>
+		<string>get up</string>
+		<string>rest</string>
+	</array>
+	<key>Date</key>
+	<array>
+		<date>2014-10-28T19:45:53Z</date>
+		<date>2014-10-27T19:45:41Z</date>
+		<date>2014-10-27T19:45:22Z</date>
+	</array>
+	<key>Categoty</key>
+	<array>
+		<string>work</string>
+		<string>work</string>
+		<string>work</string>
+	</array>
+	<key>Description</key>
+	<array>
+		<string>finish project</string>
+		<string>stand from bed</string>
+		<string>rest for a while</string>
+	</array>
+	<key>Avatar</key>
+	<array>
+		<string>work.jpg</string>
+		<string>work.jpg</string>
+		<string>relax.jpeg</string>
+	</array>
+</dict>
+</plist>

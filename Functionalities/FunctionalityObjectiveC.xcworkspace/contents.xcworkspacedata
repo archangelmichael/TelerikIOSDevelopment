@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:GetUserLocation/GetUserLocation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LocationProvider/LocationProvider.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TestStaticClass/TestStaticClass.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CustomViews/CustomViews.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TemplateProject/TemplateProject.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CollectionViewController/CollectionViewController.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CustomTableViewWithBackOption/CustomTableViewWithBackOption.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StoryPictureViewer/StoryPictureViewer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StoryApp/StoryApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TabbedAppIntro/TabbedAppIntro.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MasterDetailIntro/MasterDetailIntro.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PageTransitionIntro/PageTransitionIntro.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TableViewIntro/TableViewIntro.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CustomPickerView/CustomPickerView.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SinglePageIntro/SinglePageIntro.xcodeproj">
+   </FileRef>
+</Workspace>

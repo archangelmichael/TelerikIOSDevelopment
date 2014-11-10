@@ -1,0 +1,324 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8405D07F1A0139D3001F5F2D /* TeleportPunch.m in Sources */ = {isa = PBXBuildFile; fileRef = 8405D07E1A0139D3001F5F2D /* TeleportPunch.m */; };
+		8405D0821A0139E1001F5F2D /* FlyKick.m in Sources */ = {isa = PBXBuildFile; fileRef = 8405D0811A0139E1001F5F2D /* FlyKick.m */; };
+		8405D0851A0139F3001F5F2D /* Brutilizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 8405D0841A0139F3001F5F2D /* Brutilizer.m */; };
+		841915281A0110330068BE6B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 841915271A0110330068BE6B /* main.m */; };
+		841915341A0115A90068BE6B /* Skill.m in Sources */ = {isa = PBXBuildFile; fileRef = 841915331A0115A90068BE6B /* Skill.m */; };
+		841915371A0120CB0068BE6B /* FireBall.m in Sources */ = {isa = PBXBuildFile; fileRef = 841915361A0120CB0068BE6B /* FireBall.m */; };
+		8419153A1A0120E10068BE6B /* Bomb.m in Sources */ = {isa = PBXBuildFile; fileRef = 841915391A0120E10068BE6B /* Bomb.m */; };
+		841BEFF21A0147DE00365398 /* Fighter.m in Sources */ = {isa = PBXBuildFile; fileRef = 841BEFF11A0147DE00365398 /* Fighter.m */; };
+		841BEFF51A01541C00365398 /* Subzero.m in Sources */ = {isa = PBXBuildFile; fileRef = 841BEFF41A01541C00365398 /* Subzero.m */; };
+		841BEFF81A0155E000365398 /* Scorpio.m in Sources */ = {isa = PBXBuildFile; fileRef = 841BEFF71A0155E000365398 /* Scorpio.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		841915221A0110330068BE6B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		8405D07D1A0139D3001F5F2D /* TeleportPunch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeleportPunch.h; sourceTree = "<group>"; };
+		8405D07E1A0139D3001F5F2D /* TeleportPunch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeleportPunch.m; sourceTree = "<group>"; };
+		8405D0801A0139E1001F5F2D /* FlyKick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlyKick.h; sourceTree = "<group>"; };
+		8405D0811A0139E1001F5F2D /* FlyKick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlyKick.m; sourceTree = "<group>"; };
+		8405D0831A0139F3001F5F2D /* Brutilizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Brutilizer.h; sourceTree = "<group>"; };
+		8405D0841A0139F3001F5F2D /* Brutilizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Brutilizer.m; sourceTree = "<group>"; };
+		841915241A0110330068BE6B /* MortalCombatGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MortalCombatGame; sourceTree = BUILT_PRODUCTS_DIR; };
+		841915271A0110330068BE6B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		841915311A0113DE0068BE6B /* MKCastable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKCastable.h; sourceTree = "<group>"; };
+		841915321A0115A90068BE6B /* Skill.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Skill.h; sourceTree = "<group>"; };
+		841915331A0115A90068BE6B /* Skill.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Skill.m; sourceTree = "<group>"; };
+		841915351A0120CB0068BE6B /* FireBall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FireBall.h; sourceTree = "<group>"; };
+		841915361A0120CB0068BE6B /* FireBall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FireBall.m; sourceTree = "<group>"; };
+		841915381A0120E10068BE6B /* Bomb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Bomb.h; sourceTree = "<group>"; };
+		841915391A0120E10068BE6B /* Bomb.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Bomb.m; sourceTree = "<group>"; };
+		841BEFEE1A01469400365398 /* MKLiving.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKLiving.h; sourceTree = "<group>"; };
+		841BEFEF1A0146F200365398 /* MKFighting.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKFighting.h; sourceTree = "<group>"; };
+		841BEFF01A0147DE00365398 /* Fighter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fighter.h; sourceTree = "<group>"; };
+		841BEFF11A0147DE00365398 /* Fighter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fighter.m; sourceTree = "<group>"; };
+		841BEFF31A01541C00365398 /* Subzero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Subzero.h; sourceTree = "<group>"; };
+		841BEFF41A01541C00365398 /* Subzero.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Subzero.m; sourceTree = "<group>"; };
+		841BEFF61A0155E000365398 /* Scorpio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Scorpio.h; sourceTree = "<group>"; };
+		841BEFF71A0155E000365398 /* Scorpio.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Scorpio.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		841915211A0110330068BE6B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8419151B1A0110330068BE6B = {
+			isa = PBXGroup;
+			children = (
+				841915261A0110330068BE6B /* MortalCombatGame */,
+				841915251A0110330068BE6B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		841915251A0110330068BE6B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				841915241A0110330068BE6B /* MortalCombatGame */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		841915261A0110330068BE6B /* MortalCombatGame */ = {
+			isa = PBXGroup;
+			children = (
+				841915301A0111810068BE6B /* Skills */,
+				8419152F1A0111770068BE6B /* Models */,
+				8419152E1A0111680068BE6B /* Protocols */,
+				841915271A0110330068BE6B /* main.m */,
+			);
+			path = MortalCombatGame;
+			sourceTree = "<group>";
+		};
+		8419152E1A0111680068BE6B /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				841915311A0113DE0068BE6B /* MKCastable.h */,
+				841BEFEE1A01469400365398 /* MKLiving.h */,
+				841BEFEF1A0146F200365398 /* MKFighting.h */,
+			);
+			name = Protocols;
+			sourceTree = "<group>";
+		};
+		8419152F1A0111770068BE6B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				841BEFF01A0147DE00365398 /* Fighter.h */,
+				841BEFF11A0147DE00365398 /* Fighter.m */,
+				841BEFF31A01541C00365398 /* Subzero.h */,
+				841BEFF41A01541C00365398 /* Subzero.m */,
+				841BEFF61A0155E000365398 /* Scorpio.h */,
+				841BEFF71A0155E000365398 /* Scorpio.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		841915301A0111810068BE6B /* Skills */ = {
+			isa = PBXGroup;
+			children = (
+				841915321A0115A90068BE6B /* Skill.h */,
+				841915331A0115A90068BE6B /* Skill.m */,
+				841915351A0120CB0068BE6B /* FireBall.h */,
+				841915361A0120CB0068BE6B /* FireBall.m */,
+				841915381A0120E10068BE6B /* Bomb.h */,
+				841915391A0120E10068BE6B /* Bomb.m */,
+				8405D07D1A0139D3001F5F2D /* TeleportPunch.h */,
+				8405D07E1A0139D3001F5F2D /* TeleportPunch.m */,
+				8405D0801A0139E1001F5F2D /* FlyKick.h */,
+				8405D0811A0139E1001F5F2D /* FlyKick.m */,
+				8405D0831A0139F3001F5F2D /* Brutilizer.h */,
+				8405D0841A0139F3001F5F2D /* Brutilizer.m */,
+			);
+			name = Skills;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		841915231A0110330068BE6B /* MortalCombatGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8419152B1A0110330068BE6B /* Build configuration list for PBXNativeTarget "MortalCombatGame" */;
+			buildPhases = (
+				841915201A0110330068BE6B /* Sources */,
+				841915211A0110330068BE6B /* Frameworks */,
+				841915221A0110330068BE6B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MortalCombatGame;
+			productName = MortalCombatGame;
+			productReference = 841915241A0110330068BE6B /* MortalCombatGame */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8419151C1A0110330068BE6B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = Admin;
+				TargetAttributes = {
+					841915231A0110330068BE6B = {
+						CreatedOnToolsVersion = 6.1;
+					};
+				};
+			};
+			buildConfigurationList = 8419151F1A0110330068BE6B /* Build configuration list for PBXProject "MortalCombatGame" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8419151B1A0110330068BE6B;
+			productRefGroup = 841915251A0110330068BE6B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				841915231A0110330068BE6B /* MortalCombatGame */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		841915201A0110330068BE6B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				841915371A0120CB0068BE6B /* FireBall.m in Sources */,
+				841BEFF81A0155E000365398 /* Scorpio.m in Sources */,
+				8405D0821A0139E1001F5F2D /* FlyKick.m in Sources */,
+				8419153A1A0120E10068BE6B /* Bomb.m in Sources */,
+				841915281A0110330068BE6B /* main.m in Sources */,
+				841915341A0115A90068BE6B /* Skill.m in Sources */,
+				841BEFF21A0147DE00365398 /* Fighter.m in Sources */,
+				8405D07F1A0139D3001F5F2D /* TeleportPunch.m in Sources */,
+				8405D0851A0139F3001F5F2D /* Brutilizer.m in Sources */,
+				841BEFF51A01541C00365398 /* Subzero.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		841915291A0110330068BE6B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		8419152A1A0110330068BE6B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		8419152C1A0110330068BE6B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8419152D1A0110330068BE6B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8419151F1A0110330068BE6B /* Build configuration list for PBXProject "MortalCombatGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				841915291A0110330068BE6B /* Debug */,
+				8419152A1A0110330068BE6B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8419152B1A0110330068BE6B /* Build configuration list for PBXNativeTarget "MortalCombatGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8419152C1A0110330068BE6B /* Debug */,
+				8419152D1A0110330068BE6B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8419151C1A0110330068BE6B /* Project object */;
+}
